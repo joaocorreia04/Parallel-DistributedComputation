@@ -4,7 +4,7 @@ CPD Projects of group T07G11.
 
 ## Project 1: 14/20
 ## Project 2: 14/20
-Project 2: [Link to Assignment 2 README](assign2/README.md)
+[Link to Assignment 2 README](assign2/README.md)
 
 
 Group members:
