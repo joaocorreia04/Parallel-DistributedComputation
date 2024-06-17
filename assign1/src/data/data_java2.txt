@@ -1,0 +1,84 @@
+Dimensions: 600
+Time: 0.17 seconds
+
+Dimensions: 600
+Time: 0.286 seconds
+
+Dimensions: 600
+Time: 0.102 seconds
+
+Dimensions: 600
+Time: 0.1 seconds
+
+Dimensions: 1000
+Time: 0.471 seconds
+
+Dimensions: 1000
+Time: 0.468 seconds
+
+Dimensions: 1000
+Time: 0.531 seconds
+
+Dimensions: 1000
+Time: 0.484 seconds
+
+Dimensions: 1400
+Time: 1.803 seconds
+
+Dimensions: 1400
+Time: 1.638 seconds
+
+Dimensions: 1400
+Time: 1.883 seconds
+
+Dimensions: 1400
+Time: 1.628 seconds
+
+Dimensions: 1800
+Time: 3.669 seconds
+
+Dimensions: 1800
+Time: 3.735 seconds
+
+Dimensions: 1800
+Time: 3.499 seconds
+
+Dimensions: 1800
+Time: 3.5 seconds
+
+Dimensions: 2200
+Time: 6.861 seconds
+
+Dimensions: 2200
+Time: 6.945 seconds
+
+Dimensions: 2200
+Time: 6.854 seconds
+
+Dimensions: 2200
+Time: 6.537 seconds
+
+Dimensions: 2600
+Time: 11.676 seconds
+
+Dimensions: 2600
+Time: 11.268 seconds
+
+Dimensions: 2600
+Time: 10.789 seconds
+
+Dimensions: 2600
+Time: 11.439 seconds
+
+Dimensions: 3000
+Time: 17.13 seconds
+
+Dimensions: 3000
+Time: 16.347 seconds
+
+Dimensions: 3000
+Time: 16.591 seconds
+
+Dimensions: 3000
+Time: 17.48 seconds
+

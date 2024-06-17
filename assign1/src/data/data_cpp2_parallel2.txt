@@ -1,0 +1,140 @@
+Time: 0.188 seconds
+Dimensions: 600
+L1 DCM:8910871
+L2 DCM:36464283
+
+Time: 0.189 seconds
+Dimensions: 600
+L1 DCM:8906571
+L2 DCM:36482906
+
+Time: 0.194 seconds
+Dimensions: 600
+L1 DCM:8877965
+L2 DCM:36065863
+
+Time: 0.191 seconds
+Dimensions: 600
+L1 DCM:8758037
+L2 DCM:35563046
+
+Time: 0.565 seconds
+Dimensions: 1000
+L1 DCM:31720844
+L2 DCM:121175694
+
+Time: 0.555 seconds
+Dimensions: 1000
+L1 DCM:31104497
+L2 DCM:118782666
+
+Time: 0.566 seconds
+Dimensions: 1000
+L1 DCM:30833649
+L2 DCM:117164193
+
+Time: 0.585 seconds
+Dimensions: 1000
+L1 DCM:31763957
+L2 DCM:121455161
+
+Time: 1.457 seconds
+Dimensions: 1400
+L1 DCM:73567343
+L2 DCM:243627779
+
+Time: 1.407 seconds
+Dimensions: 1400
+L1 DCM:73045459
+L2 DCM:240062304
+
+Time: 1.441 seconds
+Dimensions: 1400
+L1 DCM:73859436
+L2 DCM:247050748
+
+Time: 1.449 seconds
+Dimensions: 1400
+L1 DCM:74178247
+L2 DCM:247488387
+
+Time: 3.167 seconds
+Dimensions: 1800
+L1 DCM:143201174
+L2 DCM:401139339
+
+Time: 3.232 seconds
+Dimensions: 1800
+L1 DCM:143171267
+L2 DCM:400640586
+
+Time: 3.151 seconds
+Dimensions: 1800
+L1 DCM:141585416
+L2 DCM:391868010
+
+Time: 3.181 seconds
+Dimensions: 1800
+L1 DCM:143164616
+L2 DCM:401149471
+
+Time: 5.976 seconds
+Dimensions: 2200
+L1 DCM:245602437
+L2 DCM:636882976
+
+Time: 6.308 seconds
+Dimensions: 2200
+L1 DCM:244863271
+L2 DCM:627209546
+
+Time: 6.494 seconds
+Dimensions: 2200
+L1 DCM:241997609
+L2 DCM:612799971
+
+Time: 7.362 seconds
+Dimensions: 2200
+L1 DCM:243725902
+L2 DCM:619870206
+
+Time: 10.124 seconds
+Dimensions: 2600
+L1 DCM:380185034
+L2 DCM:920364684
+
+Time: 9.425 seconds
+Dimensions: 2600
+L1 DCM:380250564
+L2 DCM:917304688
+
+Time: 9.333 seconds
+Dimensions: 2600
+L1 DCM:379341246
+L2 DCM:909996368
+
+Time: 9.318 seconds
+Dimensions: 2600
+L1 DCM:379322387
+L2 DCM:918445531
+
+Time: 13.963 seconds
+Dimensions: 3000
+L1 DCM:565248972
+L2 DCM:1296607192
+
+Time: 13.967 seconds
+Dimensions: 3000
+L1 DCM:566049976
+L2 DCM:1303208237
+
+Time: 14.001 seconds
+Dimensions: 3000
+L1 DCM:565955800
+L2 DCM:1297673993
+
+Time: 14.655 seconds
+Dimensions: 3000
+L1 DCM:562288954
+L2 DCM:1288868633
+

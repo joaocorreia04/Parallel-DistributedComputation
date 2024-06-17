@@ -1,0 +1,183 @@
+Block size: 128
+Time: 32.729 seconds
+Dimensions: 4096
+L1 DCM:9515604662
+L2 DCM:33148314959
+
+Block size: 128
+Time: 33.179 seconds
+Dimensions: 4096
+L1 DCM:9746604527
+L2 DCM:32341642822
+
+Block size: 128
+Time: 31.190 seconds
+Dimensions: 4096
+L1 DCM:9760044184
+L2 DCM:32568424549
+
+Block size: 128
+Time: 31.977 seconds
+Dimensions: 4096
+L1 DCM:9732260419
+L2 DCM:32551018372
+
+Block size: 256
+Time: 30.340 seconds
+Dimensions: 4096
+L1 DCM:9051098810
+L2 DCM:23151806421
+
+Block size: 256
+Time: 30.781 seconds
+Dimensions: 4096
+L1 DCM:9034353588
+L2 DCM:23166188063
+
+Block size: 256
+Time: 30.212 seconds
+Dimensions: 4096
+L1 DCM:9096790205
+L2 DCM:22642861001
+
+Block size: 256
+Time: 30.140 seconds
+Dimensions: 4096
+L1 DCM:9086242990
+L2 DCM:23031523869
+
+Block size: 512
+Time: 35.507 seconds
+Dimensions: 4096
+L1 DCM:8773896532
+L2 DCM:18661172904
+
+Block size: 512
+Time: 33.557 seconds
+Dimensions: 4096
+L1 DCM:8773049266
+L2 DCM:19143300857
+
+Block size: 512
+Time: 35.748 seconds
+Dimensions: 4096
+L1 DCM:8780885949
+L2 DCM:18720967061
+
+Block size: 512
+Time: 36.138 seconds
+Dimensions: 4096
+L1 DCM:8781379865
+L2 DCM:18923786196
+
+Block size: 128
+Time: 105.707 seconds
+Dimensions: 6144
+L1 DCM:32815101922
+L2 DCM:108247262912
+
+Block size: 128
+Time: 106.453 seconds
+Dimensions: 6144
+L1 DCM:32883221422
+L2 DCM:109096992324
+
+Block size: 128
+Time: 104.349 seconds
+Dimensions: 6144
+L1 DCM:32914187285
+L2 DCM:106146337096
+
+Block size: 128
+Time: 106.738 seconds
+Dimensions: 6144
+L1 DCM:32683809155
+L2 DCM:110631312898
+
+Block size: 256
+Time: 91.909 seconds
+Dimensions: 6144
+L1 DCM:30653262480
+L2 DCM:79031001815
+
+Block size: 256
+Time: 91.313 seconds
+Dimensions: 6144
+L1 DCM:30653891098
+L2 DCM:78176907915
+
+Block size: 256
+Time: 92.534 seconds
+Dimensions: 6144
+L1 DCM:30625244382
+L2 DCM:77911922844
+
+Block size: 256
+Time: 90.235 seconds
+Dimensions: 6144
+L1 DCM:30706103401
+L2 DCM:78171272432
+
+Block size: 512
+Time: 91.039 seconds
+Dimensions: 6144
+L1 DCM:29640035133
+L2 DCM:65968358521
+
+Block size: 512
+Time: 91.312 seconds
+Dimensions: 6144
+L1 DCM:29661873774
+L2 DCM:66021276664
+
+Block size: 512
+Time: 91.731 seconds
+Dimensions: 6144
+L1 DCM:29635479900
+L2 DCM:66185340892
+
+Block size: 512
+Time: 92.003 seconds
+Dimensions: 6144
+L1 DCM:29663866942
+L2 DCM:66038598005
+
+//8k
+
+Block size: 128
+Time: 252.700 seconds
+Dimensions: 8192
+L1 DCM:77069025187
+L2 DCM:257309728239
+
+Block size: 256
+Time: 415.368 seconds
+Dimensions: 8192
+L1 DCM:71987439611
+L2 DCM:159173335333
+
+Block size: 512
+Time: 354.294 seconds
+Dimensions: 8192
+L1 DCM:70742051534
+L2 DCM:148283309500
+
+//10k
+
+Block size: 128
+Time: 478.495 seconds
+Dimensions: 10240
+L1 DCM:152758558779
+L2 DCM:507941244565
+
+Block size: 256
+Time: 432.055 seconds
+Dimensions: 10240
+L1 DCM:141581854184
+L2 DCM:360271227936
+
+Block size: 512
+Time: 423.674 seconds
+Dimensions: 10240
+L1 DCM:137064950955
+L2 DCM:310374829711
